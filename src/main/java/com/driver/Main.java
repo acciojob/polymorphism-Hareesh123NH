@@ -5,7 +5,7 @@ public class Main {
     p.fun(10);
     p.fun(2,3);
     p.fun(5,6,7);
-}
+} 
 public class Product{
   //int x,y,z;
   void fun(int x){
